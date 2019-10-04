@@ -4,25 +4,27 @@ InfoGa - This tool is an open source software Information Gathering Tool support
 
 # Features :
 
-[01] Traceroute
-[02] Test Ping
-[03] DNS lookup
-[04] Reverse DNS
-[05] Host Record
-[06] Subdomain Finder
-[07] Find DNS server
-[08] Zone transfer
-[09] Whois Lookup
-[10] Geo IP Lookup
-[11] Reverse IP Lookup
-[12] TCP Port Scan
-[13] Subnet Lookup
-[14] ASN Lookup
-[15] HTTP Header
-[16] Extract Page Link
-[17] Reverse Analytics Search
-[18] IP Scanner
-[19] Web IP Finder
+Features :
+
+- Traceroute
+- Test Ping
+- DNS lookup
+- Reverse DNS
+- Host Record
+- Subdomain Finder
+- Find DNS server
+- Zone transfer
+- Whois Lookup
+- Geo IP Lookup
+- Reverse IP Lookup
+- TCP Port Scan
+- Subnet Lookup
+- ASN Lookup
+- HTTP Header
+- Extract Page Link
+- Reverse Analytics Search
+- IP Scanner
+- Web IP Finder
 
 Contact Author:
 https://facebook.com/kaitoXspiker
